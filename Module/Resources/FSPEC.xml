@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FSPEC>
+<frn value = "1" Data_Item = "010" Length = "2"/>
+<frn value = "2" Data_Item = "040" Length = "variable"/>
+<frn value = "3" Data_Item = "161" Length = "2"/>
+<frn value = "4" Data_Item = "015" Length = "1"/>
+<frn value = "5" Data_Item = "071" Length = "3"/>
+<frn value = "6" Data_Item = "130" Length = "6"/>
+<frn value = "7" Data_Item = "131" Length = "8"/>
+<frn value = "FX"/>
+<frn value = "8" Data_Item = "072" Length = "3"/>
+<frn value = "9" Data_Item = "150" Length = "2"/>
+<frn value = "10" Data_Item = "151" Length = "2"/>
+<frn value = "11" Data_Item = "080" Length = "3"/>
+<frn value = "12" Data_Item = "073" Length = "3"/>
+<frn value = "13" Data_Item = "074" Length = "4"/>
+<frn value = "14" Data_Item = "075" Length = "3"/>
+<frn value = "FX"/>
+<frn value = "15" Data_Item = "076" Length = "4"/>
+<frn value = "16" Data_Item = "140" Length = "2"/>
+<frn value = "17" Data_Item = "090" Length = "variable"/>
+<frn value = "18" Data_Item = "210" Length = "1"/>
+<frn value = "19" Data_Item = "070" Length = "2"/>
+<frn value = "20" Data_Item = "230" Length = "2"/>
+<frn value = "21" Data_Item = "145" Length = "2"/>
+<frn value = "FX"/>
+<frn value = "22" Data_Item = "152" Length = "2"/>
+<frn value = "23" Data_Item = "200" Length = "1"/>
+<frn value = "24" Data_Item = "155" Length = "2"/>
+<frn value = "25" Data_Item = "157" Length = "2"/>
+<frn value = "26" Data_Item = "160" Length = "4"/>
+<frn value = "27" Data_Item = "165" Length = "2"/>
+<frn value = "28" Data_Item = "077" Length = "3"/>
+<frn value = "FX"/>
+<frn value = "29" Data_Item = "170" Length = "6"/>
+<frn value = "30" Data_Item = "020" Length = "1"/>
+<frn value = "31" Data_Item = "220" Length = "variable"/>
+<frn value = "32" Data_Item = "146" Length = "2"/>
+<frn value = "33" Data_Item = "148" Length = "2"/>
+<frn value = "34" Data_Item = "110" Length = "variable"/>
+<frn value = "35" Data_Item = "016" Length = "1"/>
+<frn value = "FX"/>
+<frn value = "36" Data_Item = "008" Length = "1"/>
+<frn value = "37" Data_Item = "271" Length = "variable"/>
+<frn value = "38" Data_Item = "132" Length = "1"/>
+<frn value = "39" Data_Item = "250" Length = "9"/>
+<frn value = "40" Data_Item = "260" Length = "7"/>
+<frn value = "41" Data_Item = "400" Length = "1"/>
+<frn value = "42" Data_Item = "295" Length = "variable"/>
+<frn value = "FX"/>
+<frn value = "43"/>
+<frn value = "44"/>
+<frn value = "45"/>
+<frn value = "46"/>
+<frn value = "47"/>
+<frn value = "48" Data_Item = "RE" Length = "variable"/>
+<frn value = "49" Data_Item = "SP" Length = "variable"/>
+<frn value = "FX"/>
+</FSPEC>

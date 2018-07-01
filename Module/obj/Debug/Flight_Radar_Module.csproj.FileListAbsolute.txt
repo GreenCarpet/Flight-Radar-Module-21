@@ -1,0 +1,16 @@
+c:\users\арм\documents\visual studio 2017\Projects\Module\Module\obj\Debug\Flight_Radar_Module.csproj.GenerateResource.Cache
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\bin\Debug\TEST.dll
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\bin\Debug\TEST.pdb
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\obj\Debug\Flight_Radar_Module.csprojResolveAssemblyReference.cache
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\obj\Debug\Flight_Radar_Module.Properties.Resources.resources
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\obj\Debug\TEST.dll
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\bin\Debug\Modules\TEST.dll
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module\Module\obj\Debug\TEST.pdb
+C:\Flight Radar\Modules\TEST.dll
+C:\Flight Radar\Modules\TEST.pdb
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\ASTERIX\ASTERIX\ASTERIX\bin\Debug\Modules\TEST.dll
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\ASTERIX\ASTERIX\ASTERIX\bin\Debug\Modules\TEST.pdb
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module21\Module\obj\Debug\Flight_Radar_Module.Properties.Resources.resources
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module21\Module\obj\Debug\Flight_Radar_Module.csproj.GenerateResource.Cache
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module21\Module\obj\Debug\TEST.dll
+C:\Users\АРМ\Documents\Visual Studio 2017\Projects\Module21\Module\obj\Debug\TEST.pdb
